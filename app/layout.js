@@ -8,7 +8,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 
-import { cn } from "@/lib/utils.js";
+import { cn } from "../lib/utils.js";
 
 export const metadata = {
   title: "DappsNode",
